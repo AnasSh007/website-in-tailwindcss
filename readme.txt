@@ -1,2 +1,2 @@
-watched video upto 24:39
-https://www.youtube.com/watch?v=dFgzHOX84xQ
+I am Muhammad Anas. I live in Pakistan and this is my first website using tailwinds css.
+Thankyou
